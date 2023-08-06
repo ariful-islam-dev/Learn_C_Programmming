@@ -5,3 +5,5 @@
 ### Multidimentional Array
 - [x] 2D Array
 - [x] Multipllication Chart
+- [x] Saarc Countris
+- [x] Serial of Row & Column
