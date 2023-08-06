@@ -4,3 +4,4 @@
 
 ### Multidimentional Array
 - [x] 2D Array
+- [x] Multipllication Chart
