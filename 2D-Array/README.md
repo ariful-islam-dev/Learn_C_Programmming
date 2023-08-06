@@ -2,8 +2,5 @@
 
 **Refferance from ***Computer Prograaming*** written by ***Subin*** **
 
-### Function
-
-    - [x] printf();
-    - [ ] getChar();
-    - [ ] scanf();
+### Multidimentional Array
+- [x] 2D Array
